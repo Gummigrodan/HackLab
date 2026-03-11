@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    zoom: 1.5;
+}
+
 h1 {
     color: rgb(255, 255, 255);
     font-family: sans-serif;
@@ -65,4 +69,5 @@ button:hover {
     position: fixed; 
     bottom: 0; 
     width: 100%
+
 }
